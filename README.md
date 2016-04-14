@@ -1,4 +1,4 @@
 # Hello_World
-Beggnners tutorial 
+Begginners tutorial 
 
 My cat loves bug hunting.
